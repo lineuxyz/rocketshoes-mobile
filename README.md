@@ -1,0 +1,1 @@
+This is my project passed in bootcamp rocketseat Gostack 2019 challenge 08. It is a mobile application developed using JavaScript along with React Native, also using hooks technology, which was covered in the module.
